@@ -2,8 +2,7 @@ import java.util.Scanner;
 
 public class StudentGradeCalculator {
     public static void main(String[] args) {
-        //task 2
-
+        
         Scanner input = new Scanner(System.in);
         System.out.print("please enter total subjects : ");
         int subjects = input.nextInt();
